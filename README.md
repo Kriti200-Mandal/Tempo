@@ -12,6 +12,6 @@ This repository contains Python program written for the "Fundamentals of Computu
 -Make sure the python is installed [Download Python] (https://www.python.org/downloads/)
 -Open terminal or command prompt
 - Naviagte to the project folder:
-"C:\Users\dell\OneDrive\Desktop\2nd semester\FOC"
+https://github.com/Kriti200-Mandal/Tempo/blob/main/README.md?plain=1
 ## Run the python file
   
